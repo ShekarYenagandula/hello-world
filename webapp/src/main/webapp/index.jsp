@@ -3,9 +3,10 @@
   <div class="imgcontainer">
     <img src="img_avatar2.png" alt="Avatar" class="avatar">
   </div>
-
+	
   <div class="container">
-    <label for="uname"><b>Username</b></label>
+	  <label>Sign In Page</label>
+	  <label for="uname"><b>Username</b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
     <br>
     <label for="psw"><b>Password</b></label>
